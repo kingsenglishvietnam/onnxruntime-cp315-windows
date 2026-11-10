@@ -1,0 +1,11 @@
+build/
+_deps/
+*.obj
+*.pdb
+*.lib
+*.exp
+*.ilk
+*.whl
+dist/
+CMakeCache.txt
+CMakeFiles/
